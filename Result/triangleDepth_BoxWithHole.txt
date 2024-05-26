@@ -1,0 +1,34 @@
+solid   
+f 0 1 2 depth 10
+f 3 2 1 depth 10
+f 2 4 5 depth 6
+f 4 2 3 depth 6
+f 5 4 6 depth 5
+f 7 6 4 depth 5
+f 6 1 0 depth 9
+f 1 6 7 depth 9
+f 8 9 10 depth 9
+f 11 10 9 depth 9
+f 10 12 13 depth 5
+f 12 10 11 depth 5
+f 13 12 14 depth 6
+f 15 14 12 depth 6
+f 14 9 8 depth 10
+f 9 14 15 depth 10
+f 4 11 7 depth 12
+f 12 4 15 depth 12
+f 4 3 15 depth 12
+f 15 3 9 depth 12
+f 11 9 7 depth 12
+f 7 9 1 depth 12
+f 1 9 3 depth 12
+f 11 4 12 depth 12
+f 6 10 5 depth 12
+f 14 5 13 depth 12
+f 14 2 5 depth 12
+f 8 2 14 depth 12
+f 6 8 10 depth 12
+f 0 8 6 depth 12
+f 2 8 0 depth 12
+f 13 5 10 depth 12
+endsolid 
